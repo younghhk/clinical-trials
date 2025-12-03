@@ -1,8 +1,3 @@
----
-layout: default
-title: Home
----
-
 [Home](./index.md)
 | [Therapeutic Overview](./therapeutic-overview.md)
 | [Protocol Guide](./protocol-guide.md)

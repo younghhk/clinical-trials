@@ -1,0 +1,8 @@
+title: Clinical Trials Resource Hub
+theme: minima
+description: Training and protocol development resources for therapeutic clinical trials.
+nav:
+  - Home: index.md
+  - Therapeutic Trials Overview: therapeutic-overview.md
+  - Protocol Guide: protocol-guide.md
+  - Training Resources: training-resources.md

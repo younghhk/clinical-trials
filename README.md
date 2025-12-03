@@ -1,7 +1,11 @@
 [![Back to Hub](https://img.shields.io/badge/⬅️%20Back%20to%20Hub-2962FF?style=for-the-badge)](https://github.com/younghhk/NCI)
 
 
+
 # Clinical Trials Training Resources
+
+## Intro to Clinical Trial Design
+https://videocast.nih.gov/watch=54728
 
 ## Sample Size and Power Series
 - **Fundamentals (1/2)**  

@@ -18,4 +18,4 @@ https://younghhk.github.io/clinical-trials/
 
 ---
 
-All source files are located in the `docs/` folder for GitHub Pages compatibility.
+All source files are located in the `docs/` folder.

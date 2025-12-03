@@ -1,8 +1,8 @@
-
 ---
 layout: default
 title: Protocol Guide
 ---
+
 [Home](/ClinicalTrials/)
 | [Therapeutic Overview](/ClinicalTrials/therapeutic-overview)
 | [Protocol Guide](/ClinicalTrials/protocol-guide)
